@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7f40fbf8314f88468bc1e15195738ac, type: 3}
+  m_Name: "\u85A9\u9EA5\u723E"
+  m_EditorClassIdentifier: 
+  nametext: "\u85A9\u9EA5\u723E"
+  dialogue:
+  - "\u4F60\u662F\u5426\u7D93\u5E38\u611F\u5230\u83AB\u540D\u7684\u6012\u706B\u5462?"
+  - "\u6C92\u932F\uFF0C\u9019\u4E00\u5207\u90FD\u592A\u4E0D\u516C\u5E73\u4E86!\u5C31\u8B93\u6211\u7528\u6C38\u6046\u7684\u706B\u7130\u5E6B\u4F60\u89E3\u812B\u5427!"
+  - "\u9019\u662F\u4E0D\u53EF\u80FD\u7684\u4E8B\uFF0C\u6211\u4E0D\u80FD\u5BB9\u5FCD\u4F60\u9019\u6A23\u7684\u5E73\u975C\u7684\u9748\u9B42\u7684\u5B58\u5728!"
+  playerDialogue:
+  - "\u6211\u5C0D\u65BC\u73FE\u5728\u7684\u60C5\u6CC1\u78BA\u5BE6\u611F\u5230\u5F88\u6DF7\u4E82\u8207\u61A4\u6012\u963F"
+  - "\u9084\u597D\u2026\u6211\u662F\u500B\u5F88\u5E73\u975C\u7684\u4EBA"
+  - 
+  ansto_npc: 0000000000000000
+  next_response: 000000000200000002000000
