@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7f40fbf8314f88468bc1e15195738ac, type: 3}
+  m_Name: "\u85A9\u9EA5\u723E_lose"
+  m_EditorClassIdentifier: 
+  nametext: "\u85A9\u9EA5\u723E"
+  dialogue:
+  - "\u7ADF\u7136\u7528\u6211\u81EA\u5DF1\u7684\u6012\u706B\u4F86\u653B\u64CA\u6211\u55CE\u2026\u770B\u4F86\u9084\u633A\u5E36\u7A2E\u7684\u561B\uFF0C\u9019\u500B\u5C31\u4EA4\u7D66\u4F60\u4E86"
+  playerDialogue:
+  - 
+  ansto_npc: 00000000
+  next_response: 00000000
